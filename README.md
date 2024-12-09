@@ -22,8 +22,8 @@ Using Python and OpenCV, this project achieves the effect by identifying the clo
 ### **Prerequisites**  
 Ensure you have the following installed on your system:
 - Python (>= 3.8)
-- OpenCV (>= 4.10.0)
-- NumPy (>= 1.26.4)
+- OpenCV (4.10.0.84)
+- NumPy (1.26.4)
 
 ### **Installation**  
 1. Clone this repository:  
