@@ -46,10 +46,10 @@ Ensure you have the following installed on your system:
 4. Press 'q' to quit the application.
 
 ### 🎨 **Customization**
-* Modify the default HSV values in the script for different cloak colors:
-```bash
-cv2.createTrackbar("upper_hue", "bars", 110, 180, hello)
-cv2.createTrackbar("lower_hue", "bars", 68, 180, hello)
+*  Modify the default HSV values in the script for different cloak colors:
+   ```bash
+   cv2.createTrackbar("upper_hue", "bars", 110, 180, hello)
+   cv2.createTrackbar("lower_hue", "bars", 68, 180, hello)
 
-### Contributors
+### 🤝 **Contributors**
 - Mitkumar Patel -  [MitPatel24](https://github.com/MitPatel24)
